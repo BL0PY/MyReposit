@@ -1,0 +1,18 @@
+body
+{
+	background-color: rgb(100, 100, 100);
+}
+ul
+{
+	color: blue;
+}
+.titre
+{
+	text-align: center;
+	border: 2px solid rgb(50, 50, 50);
+}
+.tableDesMatiere
+{
+	border: 2px solid blue;
+	border-radius: 10px;
+}
