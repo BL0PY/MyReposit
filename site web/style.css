@@ -1,0 +1,39 @@
+html
+{
+	color: white;
+	background-color: black;
+}
+a
+{
+	color: green;
+}
+a:hover
+{
+	color: blue;
+}
+.titre
+{
+	color: white;
+	text-align: center;
+	margin: 0px auto;
+	width: 20em;
+	background-color: #ca26c5;
+	border-radius: 90em;
+}
+.tableDesMatiere
+{
+	text-align: center;
+	border: 2px solid #52ca26;
+	border-radius: 10px;
+	width: 15em;
+}
+.text
+{
+	margin-top: -35em;
+	margin-left: 20em;
+}
+.text2
+{
+	margin-top: -25em;
+	margin-left: 20em;
+}
